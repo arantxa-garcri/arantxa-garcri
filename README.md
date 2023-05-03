@@ -1,6 +1,6 @@
 <h3 align="center">¡Hi! My name is Arantxa</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arantxa-gc&label=Profile%20views&color=0e75b6&style=flat" alt="arantxa-gc" /> </p>
-<h5 align="center">I love using Python for my projects and I'm currently learning more JS and Ruby</h5>
+<h5 align="center">I love using Python for my projects</h5>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
